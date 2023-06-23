@@ -1,1 +1,3 @@
-# fraud-detection
+# Fraud Detection Project
+
+Using an artificial fraud dataset, this project aims to produce a performant classifier capable of handling severe class imbalances whilst, critically, maintaining the model transparency necessary for such a use case. The project will begin with conventional algorithms and tuning processes before exploring Bayesian probabilistic modelling via pymc. Such modelling will enable expertise to be incorporated via prior beliefs, provide strong model interpretability and enable the uncertainty of the model's parameter choices to be expressed.     
