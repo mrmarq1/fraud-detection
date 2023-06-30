@@ -1,3 +1,17 @@
 # Fraud Detection Project [New - Ongoing Project]
 
-Using an artificial fraud dataset, this project aims to produce a performant classifier capable of handling severe class imbalances whilst, critically, maintaining the model transparency necessary for such a use case. The project will begin with a conventional and comprehensive approach to modelling before exploring Bayesian probabilistic algorithms via pymc. By leveraging Bayesian modelling the project hopes to gain from the incorporation of prior beliefs, strong model interpretability and the ability to express the level of uncertainty in the model's parameters.     
+Using an artificial fraud dataset, this project aims to produce a performant classifier capable of handling severe class imbalances whilst, critically, maintaining the model transparency necessary for such a use case. The project will begin with a conventional and comprehensive approach to modelling before concluding with an exploration of Bayesian approaches in  pymc. Through the inclusion of Bayesian modelling the project hopes to gain from the incorporation of prior beliefs, strong model interpretability and the ability to express the level of uncertainty in the model's parameters. Regarding prior elicitation, this project will rely on base modelling to inform the process but, in reality, expertise could be leveraged, which seems an attractive prospect in the case of fraud detection.   
+
+## Project Motivation
+
+- Find fraud and the challenge of extreme class imbalance a very interesting scenario and wanted to test my ability to address this problem.
+- Wanted a project that would require me to demonstrate a comprehensive range of skills.
+- Keen to extend my practical experience of implementing Bayesian approaches in pymc.
+
+## Intended Learning Points
+
+- Handling extreme target class imbalances.
+- Handling zero-inflated and multi-modal features.
+- Feature engineering interaction terms.  
+- Prior elicitation via insights from base modelling. 
+- Bayesian modelling in pymc.
