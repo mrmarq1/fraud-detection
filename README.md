@@ -20,7 +20,8 @@ Using an artificial fraud dataset, this project aims to produce a classifier cap
 
 - Reduced dataset significantly to avoid prohibitive compute.
 - Checked level of class imbalance and that minority class still present after dataset reduction.
-  <img src="https://github.com/mrmarq1/fraud-detection/assets/126958930/92bcc3dc-e376-44fe-bc7e-5e1eae79c554" width="300">
+<img src="https://github.com/mrmarq1/fraud-detection/assets/126958930/92bcc3dc-e376-44fe-bc7e-5e1eae79c554" width="300">
+  
 - Converted 'object' dtypes to 'string' to enable subsequent handling. 
 
 ### Data encoding
